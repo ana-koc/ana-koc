@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**ana-koc/ana-koc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anastasiia Koc, I'm a motivated QA Engineer with a strong eye for detail. I have a background in product design and am good with working in software development teams. Eager to grow in QA, I’m committed to thorough testing and continuous learning to support product quality and business goals.
 
-Here are some ideas to get you started:
+## A Few Words About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently taking a Yandex.Praktikum QA course to gain more experience 
+- 🎓 I have a sertificate on basic QA theory and testing 
+
+## Tools I Use
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
