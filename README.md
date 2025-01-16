@@ -16,6 +16,6 @@ My name is Anastasiia Koc, I'm a motivated QA Engineer with a strong eye for det
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Test IT](https://img.shields.io/badge/TestIT-blue?style=for-the-badge)
-![YandexTracker](https://img.shields.io/badge/Yandex-Tracker-5c8cff?style=for-the-badge)
+![YandexTracker](https://img.shields.io/badge/YandexTracker-5c8cff?style=for-the-badge)
 ![YouTrack](https://img.shields.io/badge/YouTrack-ec3c7c?style=for-the-badge)
 ![Sheets](https://img.shields.io/badge/Sheets-04aa24?style=for-the-badge)
